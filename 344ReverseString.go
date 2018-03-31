@@ -2,8 +2,6 @@
 
 Example:
 Given s = "hello", return "olleh".*/
-
-
 func reverseString(s string) string {
 	result := ""
 	if s != "" {
